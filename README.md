@@ -11,6 +11,9 @@
 ### There are Four wire 
 
   a. SCLK - (Master generate clock, to achive synchronization)
+  
   b. SS   - (Master enable one slave)
+  
   c. MOSI - (Master Out Slave In) 
+  
   d. MISO - (Master In Slave Out)
